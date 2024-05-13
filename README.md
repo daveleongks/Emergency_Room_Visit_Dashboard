@@ -20,26 +20,27 @@ Above comprehensive approach not only sheds light but also empowers informed dec
  Dashboard Image:
 
 
-### [1] Average Satisfaction Score
-- The average satisfaction Score is 5.47.
-- AM (Morning) Score is 5.45.
-- PM (Afternoon) Score is 5.50.
+### [1] Patient Satisfaction Analysis:
+- The average satisfaction score currently stands at 5.47.
+- AM (Morning) satisfaction score averages at 5.45, while PM (Afternoon) satisfaction score slightly higher at 5.50.
 
-Average Satisfaction Score is quite low and need to have action plan to improve it, however do also note that there are around 75% of the patients do not rate the service.
+The average satisfaction score indicates room for improvement, particularly considering that approxmiately 75% of patients have not rated the service. 
+Implementing an action plan to enhance satisfaction level is imperative.
 
-### [2] Average Wait Time
-- The average wait time is 35.26 minutes.
-- AM (Morning) wait time is 35.53 minutes.
-- PM (Afternoon) wait time is 34.93 minutes
+### [2] Wait Time Insights:
+- On average, the patients wait 35.26 minutes before seeing a doctor.
+- AM (Morning) wait time is 35.53 minutes, while PM (Afternoon) wait time is 34.93 minutes.
 
-Patient need to wait for around 35 minutes before seeing doctor and according to statistics, 30 minutes is the best acceptable waiting time. Hence, we should aim to reduce the waiting time to within 30 minutes for a better patient experience.
+Patients typically wait around 35 minutes, slightly exceeding the optimal 30 minutes waiting time benchmark. We can streamline processes and reduce wait times to improve the overall patient experience.
+
+### [3] Patient Visits Overview:
+- Total number of patient visits recorded: 9,626.
+- Gender distribution and the percentage of administrative versus non-administrative visits are nearly equal.
+- Referred patients account for a higher percentage compared to Walk-In patients, with a difference of at least 10%.
+- Adults constitute the primary age group, while infants represents the least.
+- February records the lowest visit count, while August emerges as the peak month. However, when analyzed by AM and PM, May and June show the highest visits, respectively.
 
 
-### [3] Total number of patient visits: 9,216
-1. Referred Patients (%) is higher than Walk-In Patients by at least 10%
-2. Main age group is Adult and infant formed the least number of patients.
-3. Lowest visit month is february and the peak month is August however if spilt by AM and PM, the peak month is May and June respectively.
-4. % Gender and % Administrative verus % Non-Administrative are almost equally.
 
 
 
