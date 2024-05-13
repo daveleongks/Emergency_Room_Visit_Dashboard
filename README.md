@@ -21,9 +21,9 @@ Above comprehensive approach not only sheds light but also empowers informed dec
 
 
 ### [1] Average Satisfaction Score
-    - The average satisfaction Score is 5.47.
-    - AM (Morning) Score is 5.45.
-    - PM (Afternoon) Score is 5.50.
+- The average satisfaction Score is 5.47.
+- AM (Morning) Score is 5.45.
+- PM (Afternoon) Score is 5.50.
 Average Satisfaction Score is quite low and need to have action plan to improve it, however do also note that there are around 75% of the patients do not rate the service.
 
 ### [2] Average Wait Time
