@@ -2,8 +2,6 @@
 
 ## Problem Objective / Statement:
 This healthcare interactive dashboard is aimed to delve into below critical metrics to understand their patients visit better.
-
-**Critical Metrics:**
 1. Average Satisfaction Score
 2. Average Wait Times
 3. Total Patients Visit by:
