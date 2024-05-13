@@ -15,7 +15,7 @@ This healthcare interactive dashboard is aimed to delve into below critical metr
 
 Above comprehensive approach not only sheds light but also empowers informed decision-making to drive continuous improvement.
 
- ## Valuable Insights:
+ ## **Valuable Insights**:
 
  Dashboard Image:
 
@@ -42,7 +42,7 @@ Patients typically wait around 35 minutes, slightly exceeding the optimal 30 min
 
 ## Additional Insight:
 Harness the power of a dynamic heat map to unveil intricate patterns in patient demographics, race against age. 
-Users gain control through customizable filters, empowering them to explore insights based on:
+Users can gain control through customizable filters, empowering them to explore insights based on:
 - Average Satisfaction Score
 - Average Wait Times
 - Total Patient.
