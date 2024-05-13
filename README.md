@@ -15,10 +15,10 @@ This healthcare interactive dashboard is aimed to delve into below critical metr
 
 Above comprehensive approach not only sheds light but also empowers informed decision-making to drive continuous improvement.
 
- ## Valuable Insights:
+## Dashboard Snapshot
+![Emergency_Room_Visit_Dashboard](./Image/Patients_Dashboard.png)
 
- Dashboard Image:
- ![Emergency_Room_Visit_Dashboard](./Image/Patients_Dashboard.png)
+## Valuable Insights:
 
 ### [1] Patient Satisfaction Analysis:
 - The average satisfaction score currently stands at 5.47.
