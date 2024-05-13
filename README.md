@@ -20,10 +20,10 @@ Above comprehensive approach not only sheds light but also empowers informed dec
  Dashboard Image:
 
 ### [1] Total number of patient visits: 9,216
-Referred Patients (%) is higher than Walk-In Patients by at least 10%
-Main age group is Adult and infant formed the least number of patients.
-Lowest visit month is february and the peak month is August however if spilt by AM and PM, the peak month is May and June respectively.
-% Gender and % Administrative verus % Non-Administrative are almost equally.
+1. Referred Patients (%) is higher than Walk-In Patients by at least 10%
+2. Main age group is Adult and infant formed the least number of patients.
+3. Lowest visit month is february and the peak month is August however if spilt by AM and PM, the peak month is May and June respectively.
+4. % Gender and % Administrative verus % Non-Administrative are almost equally.
 
 
 
