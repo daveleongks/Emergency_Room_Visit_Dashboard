@@ -40,6 +40,18 @@ Patients typically wait around 35 minutes, slightly exceeding the optimal 30 min
 - Adults constitute the primary age group, while infants represents the least.
 - February records the lowest visit count, while August emerges as the peak month. However, when analyzed by AM and PM, May and June show the highest visits, respectively.
 
+## Additional Insight:
+Harness the power of a dynamic heat map to unveil intricate patterns in patient demographics, race against age. Users gain control through customizable filters, empowering them to explore insights based on:
+- Average Satisfaction Score
+- Average Wait Times
+- Total Patient.
+
+## Recommendations:
+Apart from waiting time, we can gather data on the consultation time to have a more detailed analysis on end to end process and eventually, enhance the patient experience.
+
+In addition to optimizing wait times, there is immense value in extending our analysis to include consultation duration. By capturing data on the entire patient journey, from arrival to departure, we can conduct a holistic examination of the end-to-end process. This deeper insight enables us to pinpoint areas for improvement and implement targeted strategies to elevate the overall patient experience, fostering stronger patient-provider relationships and bolstering organizational performance.
+
+
 
 
 
