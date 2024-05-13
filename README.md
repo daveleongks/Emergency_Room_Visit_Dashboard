@@ -15,7 +15,7 @@ This healthcare interactive dashboard is aimed to delve into below critical metr
 
 Above comprehensive approach not only sheds light but also empowers informed decision-making to drive continuous improvement.
 
-## Dashboard Snapshot
+## Dashboard Snapshot:
 ![Emergency_Room_Visit_Dashboard](./Image/Patients_Dashboard.png)
 
 ## Valuable Insights:
